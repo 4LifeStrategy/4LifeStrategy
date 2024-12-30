@@ -5,8 +5,10 @@
 - <b>Firewall Configuration (pfSense)</b>
   - [pfSense Segmentation Configeration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [IDS/IPS - Serucata Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Reverse Proxy (Nginx Proxy Manager)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>NAS Configuration (Synology)</b>
+  - [Media Sever - Plex](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - Media Requester - Overseerr
+  - Reverse Proxy - Nginx Proxy Manager
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
