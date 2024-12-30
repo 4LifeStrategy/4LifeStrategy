@@ -27,7 +27,7 @@ Certifications</h2>
 - [Coursera - Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA - A+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Coursera - Google IT Support](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [HDI](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [HDI - KCS Foundation](https://www.youtube.com/watch?v=OfvdQeh79s0)
 <!--
 **Tech4LifeStrategy/Tech4LifeStrategy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
