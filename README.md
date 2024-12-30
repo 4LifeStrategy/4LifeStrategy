@@ -24,11 +24,10 @@
 <h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Coursera - Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA - A+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Coursera - Google IT Support](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [HDI](https://www.youtube.com/watch?v=OfvdQeh79s0)
 <!--
 **Tech4LifeStrategy/Tech4LifeStrategy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
