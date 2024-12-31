@@ -9,6 +9,7 @@
   - [Media Sever - Plex](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - Media Requester - Overseerr
   - Reverse Proxy - Nginx Proxy Manager
+  - Log Agragater - Graylog
 - <b>iOS VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>C# (.NET Desktop Applications)</b>
