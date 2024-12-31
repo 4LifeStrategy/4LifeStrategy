@@ -24,10 +24,10 @@
 <h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
 Certifications</h2>
 
-- [Coursera - Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA - A+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Coursera - Google IT Support](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [HDI - KCS Foundation](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Coursera - Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/ON5NKR368416)
+- [CompTIA - A+]()
+- [Coursera - Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/GPVLHX25HM6H)
+- [HDI - KCS Foundation]()
 <!--
 **Tech4LifeStrategy/Tech4LifeStrategy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
