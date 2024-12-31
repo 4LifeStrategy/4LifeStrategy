@@ -13,12 +13,8 @@
   - Identity and Access Management - Keycloak
 - <b>iOS VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Cybersecurity Automation)]()
 
 <h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
 Certifications</h2>
