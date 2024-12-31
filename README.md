@@ -3,16 +3,16 @@
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Firewall Configuration (pfSense)</b>
-  - [pfSense Segmentation Configeration](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [IDS/IPS - Serucata Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [pfSense Segmentation Configeration]()
+  - [IDS/IPS - Serucata Configuration]()
 - <b>NAS Configuration (Synology)</b>
-  - [Media Sever - Plex](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - Media Requester - Overseerr
-  - Reverse Proxy - Nginx Proxy Manager
-  - Log Agragater - Graylog
-  - Identity and Access Management - Keycloak
+  - [Media Sever - Plex]()
+  - [Media Requester - Overseerr]()
+  - [Reverse Proxy - Nginx Proxy Manager]()
+  - [Log Agragater - Graylog]()
+  - [Identity and Access Management - Keycloak]()
 - <b>iOS VPN Split Tunnel</b>
-  - [iOS/MacOS Wireguard Split Tunnelling](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [iOS/MacOS Wireguard Split Tunnelling]()
 - <b>Python</b>
   - [Cybersecurity Automation]()
 
