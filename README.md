@@ -16,7 +16,9 @@
 - <b>iOS VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
 - <b>Python</b>
+  - [IDE & Extensions]()(In Progress)
   - [Cybersecurity Automation]()(In Progress)
+  
 
 <h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
 Certifications</h2>
