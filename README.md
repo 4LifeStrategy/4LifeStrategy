@@ -10,7 +10,7 @@
   - [Media Sever - Plex]()
   - [Media Requester - Overseerr]()
   - [Reverse Proxy - Nginx Proxy Manager]()
-  - [Log Agragater - Graylog]()
+  - [Log Agragater - Graylog]()(Working Progress)
   - [Identity and Access Management - Keycloak]()
 - <b>iOS VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()
