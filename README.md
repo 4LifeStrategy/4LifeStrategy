@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eddie! <br/><a href="https://github.com/tech4lifestrategy">IT Professional</a>, <a href="https://github.com/tech4lifestrategy"> Inspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Eddie! <br/><a href="https://github.com/4lifestrategy">IT Professional</a>, <a href="https://github.com/4lifestrategy"> Inspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
@@ -16,7 +16,7 @@
 - <b>VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
 - <b>Cybersecurity Automation</b>
-  - [Log Analyzer](https://github.com/Tech4LifeStrategy/Log-Analyzer)(In Progress)
+  - [Log Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)(In Progress)
   - [Vulnerability Scanner]()(In Progress)
   - [Phishing Detection Tool]()(In Progress)
   - [File Integrity Monitor]()(In Progress)
