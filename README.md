@@ -15,9 +15,14 @@
   - [Identity and Access Management - Keycloak]()(In Progress)
 - <b>VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
-- <b>IDE (Visual Studio Code)</b>
-  - [Cybersecurity Automation]()(In Progress)
-  
+- <b>Cybersecurity Automation</b>
+  - [Log Analyzer]()(In Progress)
+  - [Vulnerability Scanner]()(In Progress)
+  - [Phishing Detection Tool]()(In Progress)
+  - [File Integrity Monitor]()(In Progress)
+  - [Web Scraping for Threat Intelligence]()(In Progress)
+  - [Incident Response Script]()(In Progress)
+  - [Data Exfiltration Detector]()(In Progress)
 
 <h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
 Certifications</h2>
