@@ -13,7 +13,7 @@
   - [Reverse Proxy - Nginx Proxy Manager]()
   - [Log Agragater - Graylog]()(In Progress)
   - [Identity and Access Management - Keycloak]()(In Progress)
-- <b>iOS VPN Split Tunnel</b>
+- <b>VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
 - <b>IDE (Visual Studio Code)</b>
   - [Cybersecurity Automation]()(In Progress)
