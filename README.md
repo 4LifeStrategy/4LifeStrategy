@@ -15,8 +15,7 @@
   - [Identity and Access Management - Keycloak]()(In Progress)
 - <b>iOS VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
-- <b>Python</b>
-  - [IDE & Extensions]()(In Progress)
+- <b>IDE (VS Code)</b>
   - [Cybersecurity Automation]()(In Progress)
   
 
