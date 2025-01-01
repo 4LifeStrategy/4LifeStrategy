@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-- <b>Firewall Configuration (pfSense)</b>
+- <b>Firewall/Network Configuration (pfSense)</b>
   - [pfSense Segmentation Configeration]()
   - [Conditional Port Forwarding]()
   - [IDS/IPS - Serucata Configuration]()
