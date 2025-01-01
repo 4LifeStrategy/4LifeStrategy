@@ -16,7 +16,7 @@
 - <b>VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
 - <b>Cybersecurity Automation</b>
-  - [Log Analyzer]()(In Progress)
+  - [Log Analyzer](https://github.com/Tech4LifeStrategy/Log-Analyzer)(In Progress)
   - [Vulnerability Scanner]()(In Progress)
   - [Phishing Detection Tool]()(In Progress)
   - [File Integrity Monitor]()(In Progress)
