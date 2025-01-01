@@ -3,9 +3,9 @@
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Firewall/Network Configuration (pfSense)</b>
-  - [pfSense Segmentation Configeration]()
+  - [pfSense Segmentation]()
   - [Conditional Port Forwarding]()
-  - [IDS/IPS - Serucata Configuration]()
+  - [IDS/IPS - Serucata]()
 - <b>NAS Configuration (Synology)</b>
   - [Media Sever - Plex]()
   - [Media Requester - Overseerr]()
