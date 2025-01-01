@@ -10,12 +10,12 @@
   - [Media Sever - Plex]()
   - [Media Requester - Overseerr]()
   - [Reverse Proxy - Nginx Proxy Manager]()
-  - [Log Agragater - Graylog]()(Working Progress)
-  - [Identity and Access Management - Keycloak]()
+  - [Log Agragater - Graylog]()(In Progress)
+  - [Identity and Access Management - Keycloak]()(In Progress)
 - <b>iOS VPN Split Tunnel</b>
-  - [iOS/MacOS Wireguard Split Tunnelling]()
+  - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
 - <b>Python</b>
-  - [Cybersecurity Automation]()
+  - [Cybersecurity Automation]()(In Progress)
 
 <h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
 Certifications</h2>
