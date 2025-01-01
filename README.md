@@ -4,6 +4,7 @@
 
 - <b>Firewall/Network Configuration (pfSense)</b>
   - [pfSense Segmentation]()
+  - [Firewall Rulls and Aliasing]()
   - [Conditional Port Forwarding]()
   - [IDS/IPS - Serucata]()
 - <b>NAS Configuration (Synology)</b>
