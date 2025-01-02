@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eddie! <br/><a href="https://github.com/4lifestrategy">IT Professional</a>, <a href="https://github.com/4lifestrategy"> Inspiring Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+# 👨‍💻 IT & Cybersecurity Projects:
 
 - <b>Firewall/Network Configuration (pfSense)</b>
   - [pfSense Segmentation]()
@@ -24,24 +24,14 @@
   - [Incident Response Script]()(In Progress)
   - [Data Exfiltration Detector]()(In Progress)
 
-<h2><img src="https://github.com/user-attachments/assets/69f28c06-a5c7-4fdc-8d85-878a206dd771" width="20">
-Certifications</h2>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
-- [Coursera - Google Cybersecurity - ON5NKR368416](https://www.coursera.org/account/accomplishments/professional-cert/ON5NKR368416)
-- [CompTIA - A+ - QRKFQFFM7PQ1QVGB](http://verify.CompTIA.org)
-- [Coursera - Google IT Support - GPVLHX25HM6H](https://www.coursera.org/account/accomplishments/professional-cert/GPVLHX25HM6H)
-- [HDI - KCS Foundation - C37334]()
-<!--
-**Tech4LifeStrategy/Tech4LifeStrategy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=4LifeStrategy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=4LifeStrategy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=4LifeStrategy&icon=0&color=0)](https://visitcount.itsvg.in)
