@@ -3,20 +3,20 @@
 # 👨‍💻 IT & Cybersecurity Projects:
 
 - <b>Firewall/Network Configuration (pfSense)</b>
-  - [pfSense Segmentation]()
-  - [Firewall Rulls and Aliasing]()
-  - [Conditional Port Forwarding]()
-  - [IDS/IPS - Serucata]()
+  - [pfSense Segmentation]()(In Progress)
+  - [Firewall Rulls and Aliasing]()(In Progress)
+  - [Conditional Port Forwarding]()(In Progress)
+  - [IDS/IPS - Serucata]()(In Progress)
 - <b>NAS Configuration (Synology)</b>
-  - [Media Sever - Plex]()
-  - [Media Requester - Overseerr]()
-  - [Reverse Proxy - Nginx Proxy Manager]()
+  - [Media Sever - Plex]()(In Progress)
+  - [Media Requester - Overseerr]()(In Progress)
+  - [Reverse Proxy - Nginx Proxy Manager]()(In Progress)
   - [Log Agragater - Graylog]()(In Progress)
   - [Identity and Access Management - Keycloak]()(In Progress)
 - <b>VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
 - <b>Cybersecurity Automation</b>
-  - [Log Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)(In Progress)
+  - [Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)(In Progress)
   - [Vulnerability Scanner]()(In Progress)
   - [Phishing Detection Tool]()(In Progress)
   - [File Integrity Monitor]()(In Progress)
