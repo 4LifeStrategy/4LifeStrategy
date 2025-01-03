@@ -3,7 +3,7 @@
 # 👨‍💻 IT & Cybersecurity Projects:
 
 - <b>Firewall/Network Configuration (pfSense)</b>
-  - [pfSense Segmentation]()(In Progress)
+  - [pfSense Segmentation](https://github.com/4LifeStrategy/pfSense-Segmentation/)(In Progress)
   - [Firewall Rulls and Aliasing]()(In Progress)
   - [Conditional Port Forwarding]()(In Progress)
   - [IDS/IPS - Serucata]()(In Progress)
