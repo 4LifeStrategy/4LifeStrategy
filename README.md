@@ -11,7 +11,7 @@
   - [Media Sever - Plex]()(In Progress)
   - [Media Requester - Overseerr]()(In Progress)
   - [Reverse Proxy - Nginx Proxy Manager]()(In Progress)
-  - [Log Agragater - Graylog]()(In Progress)
+  - [SIEM - ELK Stack]()(In Progress)
   - [Identity and Access Management - Keycloak]()(In Progress)
 - <b>VPN Split Tunnel</b>
   - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
@@ -55,4 +55,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=4LifeStrategy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=4LifeStrategy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://www.hackthebox.com/api/v4/HTB-FD6733F947/badges/5833)
