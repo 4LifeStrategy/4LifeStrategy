@@ -2,27 +2,17 @@
 
 # 👨‍💻 IT & Cybersecurity Projects:
 
-- <b>Firewall/Network Configuration (pfSense)</b>
-  - [pfSense Segmentation](https://github.com/4LifeStrategy/pfSense-Segmentation/)(In Progress)
-  - [Firewall Rulls and Aliasing]()(In Progress)
-  - [Conditional Port Forwarding]()(In Progress)
-  - [IDS/IPS - Serucata]()(In Progress)
-- <b>NAS Configuration (Synology)</b>
-  - [Media Sever - Plex]()(In Progress)
-  - [Media Requester - Overseerr]()(In Progress)
-  - [Reverse Proxy - Nginx Proxy Manager]()(In Progress)
-  - [SIEM - ELK Stack]()(In Progress)
-  - [Identity and Access Management - Keycloak]()(In Progress)
-- <b>VPN Split Tunnel</b>
-  - [iOS/MacOS Wireguard Split Tunnelling]()(In Progress)
-- <b>Cybersecurity Automation</b>
-  - [Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)(In Progress)
-  - [Vulnerability Scanner]()(In Progress)
-  - [Phishing Detection Tool]()(In Progress)
-  - [File Integrity Monitor]()(In Progress)
-  - [Web Scraping for Threat Intelligence]()(In Progress)
-  - [Incident Response Script]()(In Progress)
-  - [Data Exfiltration Detector]()(In Progress)
+- <b>[Firewall Configuration and Network Segmentation (pfSense)](https://github.com/4LifeStrategy/pfSense-Segmentation)</b>
+  - pfSense Segmentation
+  - Firewall Rulls and Aliasing
+  - Conditional Port Forwarding
+- <b>[Intrusion Detection and Prevention System (Serucata)]()</b>
+- <b>[Network Attached Storage Server Deployment (Synology)]()</b>
+  - Media Sever - Plex
+  - Media Requester - Overseerr
+- <b>[Reverse Proxy Configuration (Nginx Proxy Manager)]()</b>
+- <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
+
 
 # 💻 Tech Stack:
 
@@ -50,10 +40,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=4LifeStrategy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=4LifeStrategy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-![](https://www.hackthebox.com/api/v4/HTB-FD6733F947/badges/5833)
