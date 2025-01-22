@@ -3,7 +3,8 @@
 # 👨‍💻 IT & Cybersecurity Projects:
 
 - <b>[Firewall Configuration and Network Segmentation (pfSense)](https://github.com/4LifeStrategy/pfSense-Segmentation)</b>
-  - pfSense Segmentation
+  - Installation
+  - DHCP Server
   - Firewall Rulls and Aliasing
   - Conditional Port Forwarding
 - <b>[Intrusion Detection and Prevention System (Serucata)]()</b>
@@ -33,6 +34,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
+
+###
+
+###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=4LifeStrategy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ###
 
