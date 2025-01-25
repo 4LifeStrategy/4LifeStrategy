@@ -3,9 +3,13 @@
 # 👨‍💻 IT & Cybersecurity Projects:
 
 - <b>[Firewall Configuration and Network Segmentation (pfSense)](https://github.com/4LifeStrategy/pfSense-Segmentation)</b>
-  - Installation
-  - DHCP Server
-  - Firewall Rulls and Aliasing
+  - Installation Media
+  - Installing pfSense
+  - Configuration
+  - Connecting modem and wifi
+  - Network Segmentation
+  - Firewall Rules 
+  - Static IP Address and Aliasing
   - Conditional Port Forwarding
 - <b>[Intrusion Detection and Prevention System (Serucata)]()</b>
 - <b>[Network Attached Storage Server Deployment (Synology)]()</b>
