@@ -11,7 +11,7 @@
   - Firewall Rules 
   - Static IP Address and Aliasing
   - Conditional Port Forwarding
-- <b>[Network Attached Storage Server Deployment (Synology)]()</b>
+- <b>[Network Attached Storage Server Deployment (Synology)](https://github.com/4LifeStrategy/Network-Attached-Storage-Server-Deployment)</b>
   - Configure DSM and RAID Array
   - Storage Pool and Cache Pool
   - Schedule checksums
@@ -19,8 +19,8 @@
   - Quickconnect
   - Media Sever - Plex
   - Media Requester - Overseerr
-- <b>[Intrusion Detection and Prevention System (Serucata)]()</b>
-- <b>[Reverse Proxy Configuration (Nginx Proxy Manager)]()</b>
+- <b>[Intrusion Detection and Prevention System (Serucata)](https://github.com/4LifeStrategy/Intrusion-Detection-and-Prevention-System)</b>
+- <b>[Reverse Proxy Configuration (Nginx Proxy Manager)](https://github.com/4LifeStrategy/Reverse-Proxy-Configuration)</b>
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
 
 
@@ -50,4 +50,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=4LifeStrategy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
