@@ -11,10 +11,15 @@
   - Firewall Rules 
   - Static IP Address and Aliasing
   - Conditional Port Forwarding
-- <b>[Intrusion Detection and Prevention System (Serucata)]()</b>
 - <b>[Network Attached Storage Server Deployment (Synology)]()</b>
+  - Configure DSM and RAID Array
+  - Storage Pool and Cache Pool
+  - Schedule checksums
+  - Shared Folders and Snapshots
+  - Quickconnect
   - Media Sever - Plex
   - Media Requester - Overseerr
+- <b>[Intrusion Detection and Prevention System (Serucata)]()</b>
 - <b>[Reverse Proxy Configuration (Nginx Proxy Manager)]()</b>
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
 
@@ -45,3 +50,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=4LifeStrategy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
