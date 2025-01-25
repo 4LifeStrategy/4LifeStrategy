@@ -7,15 +7,24 @@
   - Installing pfSense
   - Configuration
   - Connecting modem and wifi
+  - Ne<h1>Hi, I'm Eddie! <br/><a href="https://github.com/4lifestrategy">IT Professional</a>, <a href="https://github.com/4lifestrategy"> Inspiring Cybersecurity Professional</a></h1>
+
+# 👨‍💻 IT & Cybersecurity Projects:
+
+- <b>[Firewall Configuration and Network Segmentation (pfSense)](https://github.com/4LifeStrategy/pfSense-Segmentation)</b>
+  - Installation Media
+  - Installing pfSense
+  - Configuration
+  - Connecting modem and wifi
   - Network Segmentation
   - Firewall Rules 
   - Static IP Address and Aliasing
   - Conditional Port Forwarding
 - <b>[Network Attached Storage Server Deployment (Synology)](https://github.com/4LifeStrategy/Network-Attached-Storage-Server-Deployment)</b>
-  - Configure DSM and RAID Array
-  - Storage Pool and Cache Pool
-  - Schedule checksums
-  - Shared Folders and Snapshots
+  - Initial Setup
+  - User & Groups
+  - Data Protection & Monitoring
+  - Security Configuration
   - Quickconnect
   - Media Sever - Plex
   - Media Requester - Overseerr
