@@ -5,7 +5,7 @@
 - <b>[Firewall Configuration and Network Segmentation (pfSense)](https://github.com/4LifeStrategy/pfSense-Segmentation)</b>
   - Installation Media
   - Installing pfSense
-  - Configuration
+  - Initial Setup
   - Connecting modem and wifi
   - Network Segmentation
   - Firewall Rules 
@@ -18,7 +18,6 @@
   - Security Configuration
   - Quickconnect
   - Media Sever - Plex
-  - Media Requester - Overseerr
 - <b>[Intrusion Detection and Prevention System (Serucata)](https://github.com/4LifeStrategy/Intrusion-Detection-and-Prevention-System)</b>
 - <b>[Reverse Proxy Configuration (Nginx Proxy Manager)](https://github.com/4LifeStrategy/Reverse-Proxy-Configuration)</b>
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
