@@ -16,9 +16,13 @@
   - User & Groups
   - Data Protection & Monitoring
   - Security Configuration
-  - Quickconnect
+  - QuickConnect
   - Media Sever - Plex
-- <b>[Intrusion Detection and Prevention System (Serucata)](https://github.com/4LifeStrategy/Intrusion-Detection-and-Prevention-System)</b>
+- <b>[Intrusion Detection and Prevention System (Suricata)](https://github.com/4LifeStrategy/Intrusion-Detection-and-Prevention-System)</b>
+  - Installation
+  - Initial Setup
+  - Monitor for False Positives
+  - Enable IPS
 - <b>[Reverse Proxy Configuration (Nginx Proxy Manager)](https://github.com/4LifeStrategy/Reverse-Proxy-Configuration)</b>
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
 
