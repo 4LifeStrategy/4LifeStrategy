@@ -24,6 +24,9 @@
   - Monitor for False Positives
   - Enable IPS
 - <b>[Reverse Proxy Configuration (Nginx Proxy Manager)](https://github.com/4LifeStrategy/Reverse-Proxy-Configuration)</b>
+  - InstallationConfiguring a Macvlan Network Interface
+  - Configure SSL Certificate
+  - Configure Proxy Hosts
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
 
 
