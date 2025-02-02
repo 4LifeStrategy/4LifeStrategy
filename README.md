@@ -30,10 +30,6 @@
   - Configure Proxy Hosts
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
 
-# TryHackMe Stats:
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/4LifeStrategy.png" alt="Your Image Badge" />
-
 # 💻 Tech Stack:
 
 <div align="left">
