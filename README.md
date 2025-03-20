@@ -29,6 +29,11 @@
   - Configure SSL Certificate
   - Configure Proxy Hosts
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
+- <b>[Decoding Repeating-key XOR Cipher](https://github.com/4LifeStrategy/Decoding-Repeating-key-XOR-Cipher)</b>
+
+# TryHackMe Stats:
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/4LifeStrategy.png" alt="Your Image Badge" />
 
 # 💻 Tech Stack:
 
