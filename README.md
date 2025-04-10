@@ -31,6 +31,18 @@
 - <b>[Log File Analyzer](https://github.com/4LifeStrategy/Log-Analyzer)</b>
 - <b>[Decoding Repeating-key XOR Cipher](https://github.com/4LifeStrategy/Decoding-Repeating-key-XOR-Cipher)</b>
 
+# Certifications:
+
+<div align="left">
+  <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-cysa-ce-certification.png" height="50" alt="cysa+ cert"  />
+  <img width="12" />
+  <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/security-analyst-level-1-sal1.png" height="50" alt="sal1 cert"  />
+  <img width="12" />
+  <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/google-cybersecurity-professional-certificate-v2.png" height="50" alt="google cybersecurity cert"  />
+  <img width="12" />
+  <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-a-ce-certification.1.png" height="50" alt="a+ cert"  />
+</div>
+
 # TryHackMe Stats:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/4LifeStrategy.png" alt="Your Image Badge" />
