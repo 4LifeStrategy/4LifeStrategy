@@ -32,7 +32,6 @@
 - <b>[Decoding Repeating-key XOR Cipher](https://github.com/4LifeStrategy/Decoding-Repeating-key-XOR-Cipher)</b>
 
 # Certifications:
-
 <div align="left" style="font-size:0; line-height:0;">
   <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51/public_url" target="_blank" style="display:inline-block;">
     <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/main/Certification%20Badges/comptia-cysa-ce-certification.png?raw=true" height="60" style="display:block; border:0;" alt="CySA+" />
@@ -45,6 +44,9 @@
   </a>
   <a href="https://www.credly.com/badges/4af7541d-edd8-42e7-85fc-8a12b20ce312/public_url" target="_blank" style="display:inline-block; margin-left:12px;">
     <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/main/Certification%20Badges/comptia-a-ce-certification.1.png?raw=true" height="60" style="display:block; border:0;" alt="A+" />
+  </a>
+  <a href="hhttps://www.credly.com/badges/7de258b0-ac4b-4a69-a11a-76753241d421/public_url" target="_blank" style="display:inline-block; margin-left:12px;">
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/b70a0319cab6cc1ee1d4d199d40c0e0e1ff6a207/Certification%20Badges/google-it-support-certificate.2.png?raw=true" height="60" style="display:block; border:0;" alt="Google IT" />
   </a>
 </div>
 
