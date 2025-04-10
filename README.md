@@ -34,17 +34,20 @@
 # Certifications:
 
 <div align="left">
-  <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51">
-    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-cysa-ce-certification.png" height="50" alt="cysa+ cert"/>
+  <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51/public_url" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-cysa-ce-certification.png" height="50" alt="cysa+ cert"  />
   </a>
-  <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51">
-    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/security-analyst-level-1-sal1.png" height="50" alt="sal1 cert"/>
+  <img width="12" />
+  <a href="https://www.credly.com/badges/11497371-f1e8-4847-9079-92e014488c7b/public_url" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/security-analyst-level-1-sal1.png" height="50" alt="sal1 cert"  />
   </a>
-  <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51">
-    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/google-cybersecurity-professional-certificate-v2.png" height="50" alt="google cybersecurity cert"/>
+  <img width="12" />
+  <a href="https://www.credly.com/badges/7224c7ed-ebb4-4c12-8672-df5f56d7f4fa/public_url" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/google-cybersecurity-professional-certificate-v2.png" height="50" alt="google cybersecurity cert"  />
   </a>
-  <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51">
-    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-a-ce-certification.1.png" height="50" alt="a+ cert"/>
+  <img width="12" />
+  <a href="https://www.credly.com/badges/4af7541d-edd8-42e7-85fc-8a12b20ce312/public_url" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-a-ce-certification.1.png" height="50" alt="a+ cert"  />
   </a>
 </div>
 
