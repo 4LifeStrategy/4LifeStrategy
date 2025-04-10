@@ -53,7 +53,9 @@
 
 # TryHackMe Stats:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/4LifeStrategy.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/4LifeStrategy">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/4LifeStrategy.png" alt="TryHackMe Badge" />
+</a>
 
 # 💻 Tech Stack:
 
