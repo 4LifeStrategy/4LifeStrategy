@@ -34,7 +34,9 @@
 # Certifications:
 
 <div align="left">
-  <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-cysa-ce-certification.png" height="50" alt="cysa+ cert"  />
+  <a href="https://www.credly.com/badges/43bfc669-06f9-4472-a650-1b4d165c3a51/public_url" target="_blank">
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/comptia-cysa-ce-certification.png" height="50" alt="cysa+ cert"  />
+  </a>
   <img width="12" />
   <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/122267884ae07f02320692d988e438f566a22e34/Certification%20Badges/security-analyst-level-1-sal1.png" height="50" alt="sal1 cert"  />
   <img width="12" />
