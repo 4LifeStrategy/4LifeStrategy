@@ -40,7 +40,7 @@
     <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/main/Certification%20Badges/security-analyst-level-1-sal1.png?raw=true" height="60" style="display:block; border:0;" alt="SAL1" />
   </a>
   <a href="https://www.credly.com/badges/7224c7ed-ebb4-4c12-8672-df5f56d7f4fa/public_url" target="_blank" style="display:inline-block; margin-left:12px;">
-    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/main/Certification%20Badges/google-cybersecurity-professional-certificate-v2.png?raw=true" height="60" style="display:block; border:0;" alt="Google Cyber" />
+    <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/main/Certification%20Badges/google-cybersecurity-professional-certificate-v2.png?raw=true" height="65" style="display:block; border:0;" alt="Google Cyber" />
   </a>
   <a href="https://www.credly.com/badges/4af7541d-edd8-42e7-85fc-8a12b20ce312/public_url" target="_blank" style="display:inline-block; margin-left:12px;">
     <img src="https://github.com/4LifeStrategy/4LifeStrategy/blob/main/Certification%20Badges/comptia-a-ce-certification.1.png?raw=true" height="60" style="display:block; border:0;" alt="A+" />
